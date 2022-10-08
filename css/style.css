@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+:root{
+    /* Colors */
+    /* Primary */
+    --violet-background: hsl(257, 40%, 49%);
+    --softMagenta-hover: hsl(300, 69%, 71%);
+    --white-typography: rgb(245, 245, 245);
+    /* Typography */
+    --poppins-headings: 'Poppins', sans-serif;
+    --openSans-paragraph: 'Open Sans', sans-serif;
+    --poppins-weightBold: 700;
+    --poppins-weightRegular: 400;
+    --openSans-wightRegular: 400;
+}
+
+
+
+
+
+
+.attribution{
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a{
+    color: hsl(228, 45%, 44%);
+}
